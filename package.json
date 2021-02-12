@@ -1,0 +1,23 @@
+{
+  "name": "bernieconrad.com",
+  "version": "0.0.1",
+  "description": "This is the actual repository for my website that is WIP.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernstern/bernieconrad.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bernstern/bernieconrad.com/issues"
+  },
+  "homepage": "https://github.com/Bernstern/bernieconrad.com#readme",
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  }
+}
